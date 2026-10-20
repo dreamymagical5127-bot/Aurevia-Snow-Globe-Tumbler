@@ -1,1 +1,40 @@
 # Aurevia-Snow-Globe-Tumbler
+<index.html>
+<html lang="zh-MY">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>简约风双层不锈钢保温杯 - 专卖店</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f9f9f9; margin: 0; padding: 20px; text-align: center; }
+        .header { padding: 30px; background: #fff; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .product-grid { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+        .card { background: white; padding: 20px; border-radius: 12px; width: 280px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: left; }
+        .card img { width: 100%; border-radius: 8px; height: 250px; object-fit: cover; }
+        .price { color: #e44d26; font-size: 1.25rem; font-weight: bold; margin: 10px 0; }
+        .btn-whatsapp { display: block; background-color: #25D366; color: white; text-align: center; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 15px; }
+        .btn-whatsapp:hover { background-color: #128C7E; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>✨ 专属定制保温杯 Tumbler Shop ✨</h1>
+        <p>为你或你爱的人，定制专属的温度与名字 🇲🇾 马来西亚现货邮寄</p>
+    </div>
+
+    <div class="product-grid">
+        <!-- 你的商品 -->
+        <div class="card">
+            <!-- 占位产品图片 -->
+            <img src="https://unsplash.com" alt="简约风双层不锈钢保温杯">
+            <h3>简约风双层不锈钢保温杯</h3>
+            <p>双层真空绝缘，高级质感，保温保冷长达12小时。可免费雕刻名字。</p>
+            <div class="price">RM 49.00</div>
+            <!-- 已为你绑定大马号码和自动下单讯息 -->
+            <a href="https://wa.me：简约风双层不锈钢保温杯 (RM 49.00)" target="_blank" class="btn-whatsapp">💬 点击 WhatsApp 下单</a>
+        </div>
+    </div>
+
+</body>
+</html>
